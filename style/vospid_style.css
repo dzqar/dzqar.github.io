@@ -1,0 +1,43 @@
+::-webkit-scrollbar {
+  width: 10px;
+  background: #2a363b;
+}
+
+::-webkit-scrollbar-track {
+  background: #2a363b;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f5d061;
+  border-radius: 50px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e6b31e;
+}
+
+#hobby,
+#progateCertif {
+  background-color: #e6b31e;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.btn:hover {
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+div.fotogw img:hover {
+  border-color: #2a363b;
+  border-width: 3px;
+  transition: 0.1s;
+}
